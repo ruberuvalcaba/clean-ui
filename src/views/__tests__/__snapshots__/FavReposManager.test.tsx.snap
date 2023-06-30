@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FavReposManager component renders correctly 1`] = `
+<div>
+  HELLO F* N* WORLD
+</div>
+`;
