@@ -1,4 +1,4 @@
-# Getting Started with Favorite GitHub Repos Web App
+# Clean UI
 
 This a React starter app created by Ruben F. Ruvalcaba.
 
