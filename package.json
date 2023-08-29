@@ -32,7 +32,8 @@
   "scripts": {
     "build": "webpack --mode production",
     "build-dev": "webpack --mode development",
-    "start": "webpack-dev-server --open --port 3000 --mode development",
+    "start": "yarn storybook",
+    "run": "webpack-dev-server --open --port 3000 --mode development",
     "test": "jest",
     "lint": "yarn eslint . --ext .js,.jsx,.ts,.tsx",
     "postinstall": "husky install",
